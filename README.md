@@ -4,13 +4,6 @@ BookHeaven is a sustainable online platform that allows users to **buy and sell 
 
 ---
 
-## 🚀 Live Demo
-
-[🔗 Click here to try BookHeaven](#)  
-*(Replace `#` with your live hosted URL, if deployed)*
-
----
-
 ## 🧰 Tech Stack
 
 - **Frontend:** React.js, TypeScript, HTML5, CSS3
@@ -35,7 +28,7 @@ BookHeaven is a sustainable online platform that allows users to **buy and sell 
 ## 📸 Screenshots
 
 <!-- Replace these with your own screenshots -->
-check bk_pics folder
+--check bk_pics folder
 ---
 
 ## 🛠️ Getting Started
